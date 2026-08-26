@@ -6,6 +6,7 @@
 **Domain:** People Data | Data Quality | Migration Readiness | Executive Reporting  
 **Status:** Portfolio / professional capstone consulting simulation
 
+
 ## Executive summary
 
 Project APEX simulates a multinational organisation preparing employee master data for migration from four operational systems: BambooHR, Active Directory, Maconomy and Xytech.
@@ -13,6 +14,7 @@ Project APEX simulates a multinational organisation preparing employee master da
 Leadership lacks a governed, repeatable view of which employee records are safe to migrate, which records require remediation and which source systems create the greatest migration risk.
 
 The pilot creates an end-to-end analytics control framework using Excel for profiling and operational remediation, PostgreSQL for validation and transformation, and Power BI for semantic modelling and executive decision support.
+
 
 ## Business problem
 
@@ -25,6 +27,7 @@ The organisation cannot confidently authorise migration because:
 - validation is incomplete;
 - manual quality assessment is difficult to reproduce and audit;
 - executives do not have a consolidated migration-readiness view.
+
 
 ## Baseline findings
 
@@ -111,6 +114,9 @@ The detailed delivery plan is in:
 This repository demonstrates applied senior-level analytics capability across problem definition, data quality, SQL, Excel, semantic modelling, Power BI, KPI design, governance, QA and executive communication.
 
 **Project APEX is a professional capstone consulting simulation using synthetic data and is not presented as paid client experience.**
+
+
+
 
 ## Portfolio Visual Evidence
 
