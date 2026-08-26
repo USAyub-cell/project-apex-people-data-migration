@@ -112,3 +112,22 @@ This repository demonstrates applied senior-level analytics capability across pr
 
 **Project APEX is a professional capstone consulting simulation using synthetic data and is not presented as paid client experience.**
 
+## Portfolio Visual Evidence
+
+### Executive Migration Readiness Dashboard
+
+![Executive Migration Readiness](08_case_study/visuals/APEX_PBI_Executive_Migration_Readiness_HD.png)
+
+Executive view of the 200-record migration baseline, showing 189 migration-ready records, 11 requiring remediation and 94.5% overall readiness.
+
+### Data Quality & Remediation
+
+![Data Quality and Remediation](08_case_study/visuals/APEX_PBI_Data_Quality_HD.png)
+
+Governed exception-management view highlighting duplicate, completeness, source-of-truth and validation issues.
+
+### Power BI Semantic Model
+
+![Power BI Semantic Model](08_case_study/visuals/APEX_PBI_Semantic_Model_HD.png)
+
+Fact-and-dimension analytical model supporting migration-readiness KPIs, data-quality analysis and controlled reporting.
